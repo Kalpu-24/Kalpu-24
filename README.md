@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f2b53557-8b75-4b92-a9ae-e22864c6517a" style="width:200px; height:200px"/>
+  <img src="./public/kryoxx icon 512-masked.png" style="width:200px; height:200px"/>
 
   <p><h3><b><i>"Embrace The Uncertainty" <sub>- Unkown</sub></i></b></h3></p>
 </div>
