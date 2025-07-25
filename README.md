@@ -3,5 +3,3 @@
 
   <p><h3><b><i>"Embrace The Uncertainty" <sub>- Unkown</sub></i></b></h3></p>
 </div>
-
-Game designer/programmer working on Unreal Engine.
